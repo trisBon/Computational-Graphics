@@ -1,0 +1,20 @@
+﻿  Wk6Milestone.cpp
+C:\repos\Wk6Milestone - Copy\learnOpengl\camera.h(128,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(271,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(395,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(396,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(400,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(401,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(403,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(404,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(414,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(797,26): warning C4018: '<': signed/unsigned mismatch
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(801,30): warning C4018: '<=': signed/unsigned mismatch
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(806,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(807,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(877,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(882,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(889,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(894,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\repos\Wk6Milestone - Copy\Wk6Milestone.cpp(897,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Wk5Milestone.vcxproj -> C:\repos\Wk6Milestone - Copy\Debug\Wk6Milestone.exe
