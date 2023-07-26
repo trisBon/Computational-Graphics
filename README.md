@@ -8,7 +8,3 @@ How do I approach developing programs?
 
 As with software design, I was unable to develop code for this course following my typical methodology. Since I was unfamiliar with OpenGL, I couldn't formulate specific plans for development. Instead, I had to do extensive research, familiarize myself with the tutorial codebase, and spend many hours using trial and error. The process was rather frustrating, but I learned a lot from it. Typically, I focus on project requirements and decide on data structures based on that, but OpenGL didn't allow me that sort of design control. For this course, I had to figure out how to write code within the boundaries dictated by OpenGL: it took me a while to adjust.
 
-
-How can computer science help me in reaching my goals?
-
-To be a software developer, I have to obtain a degree in computer science. If I wanted to go into game development, I would probably use many of the skills I learned in this course. However, I have no interest in working in game design. Though taking this course helped me develop several useful skills, I don't think there will be any application for computational graphics and visualization in the last few semesters left of my degree. 
